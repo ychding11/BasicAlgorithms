@@ -8,11 +8,11 @@ It is a Collection of basic algorithms in interview.
 ---
 
 ### Features
-- [] a framework for algorithm testing
-- [] gtest for test case
-- [] glog for logging
+- [x] a framework for algorithm testing
+- [x] gtest for test case
+- [x] glog for logging
 
 ### ScreenShot
-- [screen](./screenshot/array.png)
+- ![screen](./screenshot/array.png)
 
 
